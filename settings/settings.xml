@@ -1,0 +1,28 @@
+<visicutPreferences>
+  <defaultMapping>Cut everything</defaultMapping>
+  <disableSandbox>false</disableSandbox>
+  <useFilenamesForJobs>true</useFilenamesForJobs>
+  <enableQRCodes>false</enableQRCodes>
+  <fastQRCodes>false</fastQRCodes>
+  <fabqrActive>false</fabqrActive>
+  <windowBounds>
+    <x>266</x>
+    <y>37</y>
+    <width>1145</width>
+    <height>979</height>
+  </windowBounds>
+  <useThicknessAsFocusOffset>false</useThicknessAsFocusOffset>
+  <recentFiles>
+  </recentFiles>
+  <lastMaterial>Acrylic</lastMaterial>
+  <lastLaserDevice>Derby Makers RuiDa</lastLaserDevice>
+  <availableImporters>
+    <string>com.t_oster.visicut.model.graphicelements.svgsupport.SVGImporter</string>
+    <string>com.t_oster.visicut.model.graphicelements.jpgpngsupport.JPGPNGImporter</string>
+    <string>com.t_oster.visicut.model.graphicelements.dxfsupport.DXFImporter</string>
+    <string>com.t_oster.visicut.model.graphicelements.epssupport.EPSImporter</string>
+  </availableImporters>
+  <editSettingsBeforeExecuting>false</editSettingsBeforeExecuting>
+  <laserCutterTags>lasercutter, lasercut, laser cutter, laser cut</laserCutterTags>
+  <supportedExtensions>svg, plf, dxf, eps, gcode</supportedExtensions>
+</visicutPreferences>
