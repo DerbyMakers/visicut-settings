@@ -18,13 +18,13 @@ Please:
     <BedHeight>500.0</BedHeight>
     <LaserPowerMin>0</LaserPowerMin>
     <LaserPowerMax>70</LaserPowerMax>
-    <MaxVectorCutSpeed>1000</MaxVectorCutSpeed>
-    <MaxVectorMoveSpeed>1000</MaxVectorMoveSpeed>
-    <useFilename>false</useFilename>
+    <MaxVectorCutSpeed>500</MaxVectorCutSpeed>
+    <MaxVectorMoveSpeed>500</MaxVectorMoveSpeed>
+    <useFilename>true</useFilename>
     <filename>thunder.rd</filename>
     <useNetwork>false</useNetwork>
     <network__addr>192.168.1.1</network__addr>
-    <useUsb>true</useUsb>
+    <useUsb>false</useUsb>
     <usb__device>/dev/ttyUSB0</usb__device>
   </laserCutter>
   <cameraTiming>0</cameraTiming>
