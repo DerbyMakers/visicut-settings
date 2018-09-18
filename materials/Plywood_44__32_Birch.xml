@@ -1,0 +1,10 @@
+<material>
+  <description>Birch laser ply, interior rated glue</description>
+  <engraveColor>#000000</engraveColor>
+  <cutColor>#ff0000</cutColor>
+  <color>#ebe08d</color>
+  <name>Plywood, Birch</name>
+  <materialThicknesses>
+    <float>3.5</float>
+  </materialThicknesses>
+</material>
