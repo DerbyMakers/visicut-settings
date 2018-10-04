@@ -13,7 +13,7 @@ Please:
       <boundingLayer>-1</boundingLayer>
     </ruida>
     <useBidirectionalRastering>true</useBidirectionalRastering>
-    <addSpacePerRasterLine>2.0</addSpacePerRasterLine>
+    <addSpacePerRasterLine>30.0</addSpacePerRasterLine>
     <BedWidth>700.0</BedWidth>
     <BedHeight>500.0</BedHeight>
     <LaserPowerMin>0</LaserPowerMin>
