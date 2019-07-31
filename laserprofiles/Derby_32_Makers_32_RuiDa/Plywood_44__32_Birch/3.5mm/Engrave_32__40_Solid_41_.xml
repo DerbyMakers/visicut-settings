@@ -1,10 +1,10 @@
 <linked-list>
   <com.t__oster.liblasercut.drivers.ThunderLaserProperty>
-    <power>100.0</power>
+    <power>16.0</power>
     <speed defined-in="com.t_oster.liblasercut.FloatPowerSpeedFocusProperty">100.0</speed>
     <focus>0.0</focus>
-    <min__power>75</min__power>
-    <speed>500</speed>
+    <min__power>12</min__power>
+    <speed>1000</speed>
     <frequency>100</frequency>
   </com.t__oster.liblasercut.drivers.ThunderLaserProperty>
 </linked-list>
